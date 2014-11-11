@@ -6,7 +6,7 @@ h2 {
 	font-family: 'Josefin Slab', serif;
 	text-align: center;
 	font-size: 2.5rem;
-	margin: 7rem auto;
+	margin: 20rem auto;
 }
 
 p {
@@ -14,6 +14,7 @@ p {
 	font-size: 1rem;
 	font-family: sans-serif;
 	font-weight: 200;
+	margin: 1rem;
 }
 
 a {
