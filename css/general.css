@@ -6,7 +6,6 @@ h2 {
 	font-family: 'Josefin Slab', serif;
 	text-align: center;
 	font-size: 2.5rem;
-	margin: 20rem auto 0 ;
 }
 
 p {
@@ -20,4 +19,8 @@ p {
 a {
 	text-transform: none;
 	color: #000;
+}
+
+.icon {
+	margin: 17rem auto 3rem;
 }
