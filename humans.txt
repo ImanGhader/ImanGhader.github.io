@@ -1,12 +1,10 @@
 # TEAM
 
 Designer and developer: Iman Ghader
-Email: imanghad@gmail.com
+Email: emanghader@gmail.com
 Site: http://imanghader.com
 Github: http://github.com/imanghader
 Twitter: @imanghader
-Behance: http://behance.com/imanghader
-Instagram: @imanghader
 Location: Ottawa, Canada
 
 ---
