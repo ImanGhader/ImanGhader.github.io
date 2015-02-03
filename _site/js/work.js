@@ -1,11 +1,11 @@
 var $win = $(window);
-var $iawBanner = $('.iaw-banner');
-var iawBannerOffset = $iawBanner.offset();
+var $banner = $('.banner');
+var bannerOffset = $banner.offset();
 
 	$win.on('scroll', function () {
 		
 		var scrollPos = $win.scrollTop();
-		var iawPos = (scrollPos - iawBannerOffset.top) / 2;
+		var Pos = (scrollPos - bannerOffset.top) / 2;
 
-		$iawBanner.css('background-position', 'center ' + iawPos + 'px');
+		$banner.css('background-position', 'center ' + Pos + 'px');
 	});

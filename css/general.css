@@ -107,7 +107,7 @@ a:active{
 	color: #000;
 }
 
-.home-banner {
+.home .banner {
 	background: transparent url(../imgs/home-banner.jpg) no-repeat center center; 
 	background-size: cover;
 	-webkit-background-size: cover;
