@@ -327,7 +327,6 @@ footer {
 }
 
 footer p {
-	margin-left: 1rem;
 	font-family: 'Josefin Slab', sans-serif;
 }
 
@@ -422,7 +421,7 @@ strike {
 		text-align: left;
 	}
 
-	footer img {
+	.footer-state {
 		float: right;
 		margin: 0.5rem;
 	}

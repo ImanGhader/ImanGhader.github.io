@@ -79,6 +79,7 @@
 	max-width: 45rem;
 	margin: 0 auto 1rem;
 	display: block;
+	z-index: -10;
 }
 
 .video {
@@ -88,15 +89,35 @@
 	margin: 0 auto 1rem;
 }
 
+/*.arrows{
+	font-size: 1.2em;
+	width: 60px;
+	color: #fff;
+	bottom: 10px;
+	font-weight: 400;
+	font-family: 'Josefin Slab';
+}*/
+
+
+
 /*/////////////////////////////////////////////////// Footer */
 footer {
 	position: relative;
+	height: 50px;
+}
+
+footer p {
+	margin: 0;
+	position: absolute;
+	left: 10px;
+	top: 15px;
 }
 
 .footer-social {
 	margin: 0 auto;
 	position: absolute;
 	right: 10px;
+	top: 15px;
 }
 
 .footer-social li{
@@ -122,17 +143,10 @@ footer {
 		margin: 8rem auto;
 	}
 
-	.footer-social {
-		margin: 0;
-	}
-
 	.footer-social ul {
 		width: 100%;
 	}
 
-	.footer-social li{
-		margin-left: 1.2rem;
-	}
 }
 
 @media only screen and (min-width: 90em) { /*1440*/
