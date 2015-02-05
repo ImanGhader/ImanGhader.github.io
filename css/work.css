@@ -1,5 +1,5 @@
 .iaw .banner {
-	background: transparent url(../imgs/work/iaw-banner.jpg) no-repeat center center;
+	background: transparent url(../imgs/work/iaw-banner.jpg) no-repeat top;
 	background-size: cover;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -7,7 +7,7 @@
 }
 
 .salam .banner {
-	background: transparent url(../imgs/work/salam-banner.jpg) no-repeat center center;
+	background: transparent url(../imgs/work/salam-banner.jpg) no-repeat top;
 	background-size: cover;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -15,7 +15,7 @@
 }
 
 .bashai .banner {
-	background: transparent url(../imgs/work/bashai-banner.jpg) no-repeat center center;
+	background: transparent url(../imgs/work/bashai-banner.jpg) no-repeat top;
 	background-size: cover;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -23,7 +23,7 @@
 }
 
 .beasts .banner {
-	background: transparent url(../imgs/work/beasts-banner.jpg) no-repeat center center;
+	background: transparent url(../imgs/work/beasts-banner.jpg) no-repeat top;
 	background-size: cover;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -31,7 +31,7 @@
 }
 
 .izze .banner {
-	background: transparent url(../imgs/work/izze-banner.jpg) no-repeat center center;
+	background: transparent url(../imgs/work/izze-banner.jpg) no-repeat top;
 	background-size: cover;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -39,7 +39,7 @@
 }
 
 .mbc .banner {
-	background: transparent url(../imgs/work/mbc-banner.jpg) no-repeat center center;
+	background: transparent url(../imgs/work/mbc-banner.jpg) no-repeat top;
 	background-size: cover;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -47,7 +47,7 @@
 }
 
 .mixme .banner {
-	background: transparent url(../imgs/work/mixme-banner.jpg) no-repeat center center;
+	background: transparent url(../imgs/work/mixme-banner.jpg) no-repeat top;
 	background-size: cover;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -55,7 +55,7 @@
 }
 
 .salam-site .banner {
-	background: transparent url(../imgs/work/salam-site-banner.jpg) no-repeat center center;
+	background: transparent url(../imgs/work/salam-site-banner.jpg) no-repeat top;
 	background-size: cover;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -88,6 +88,30 @@
 	margin: 0 auto 1rem;
 }
 
+/*/////////////////////////////////////////////////// Footer */
+footer {
+	position: relative;
+}
+
+.footer-social {
+	margin: 0 auto;
+	position: absolute;
+	right: 10px;
+}
+
+.footer-social li{
+	display: inline-block;
+	margin-left: 0.7rem;
+	width: 22px;
+}
+
+.footer-social  li:hover,
+.footer-social  li:focus,
+.footer-social  li:active{
+	background-color: rgba(255,255,255,0.5);
+
+}
+
 @media only screen and (min-width: 30em) { /*480*/
 
 	.banner, {
@@ -98,6 +122,17 @@
 		margin: 8rem auto;
 	}
 
+	.footer-social {
+		margin: 0;
+	}
+
+	.footer-social ul {
+		width: 100%;
+	}
+
+	.footer-social li{
+		margin-left: 1.2rem;
+	}
 }
 
 @media only screen and (min-width: 90em) { /*1440*/

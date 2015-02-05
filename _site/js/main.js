@@ -5,10 +5,9 @@ var $homeBanner = $('.home-banner');
 if (window.screen.width >= 480) {
 
 	$win.on('scroll', function () {
-		
 		var scrollPos = $win.scrollTop();
 
-		$homeBanner.css('background-position', 'center ' + scrollPos / 3 + 'px');
+		$homeBanner.css('background-position', 'center ' + (scrollPos / 3) + 'px' );
 	});
 }
 
