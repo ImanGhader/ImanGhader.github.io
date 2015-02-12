@@ -26,7 +26,7 @@ html {
 html, body {
 	font-weight: 400;
 	width: 100%;
-	font-family: 'Lato', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	margin: 0;
 }
 
@@ -162,11 +162,12 @@ a:active{
 
 .text hr {
 	display: block;
-	width: 2rem;
-	height: 0.5rem;
+	width: 3rem;
+	height: 5px;
 	background-color: #E3A24A;
 	color: #E3A24A;
 	margin: 2rem auto;
+	border: 1px solid #E3A24A;
 }
 
 .icons li{
@@ -200,7 +201,7 @@ a:active{
 }
 
 .pieces {
-	margin: 0 3.3rem 3.3rem;
+	margin: 0 3.3rem 4rem;
 }
 
 .pieces li {
@@ -255,21 +256,37 @@ a:active{
 	overflow: hidden;
 }
 
+.how {
+		
+		overflow: hidden;
 
+}
+.how p {
+	color: #3C3E6D;
+	text-align: center;
+	max-width: 45rem;
+	font-weight: 400;
+	margin: 0 auto;
+}
 
+.how img {
+	max-width: 40rem;
+	margin: 2rem auto 2rem;
+}
 
 .how-banner {
+	/*background-color: #3C3E6D;
 	background: transparent url(../imgs/how-banner.jpg) no-repeat center center;
 	background-size: cover;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
-	-o-background-size: cover;
+	-o-background-size: cover;*/
 }
 
 .how-banner h2 {
-	color: #fff;
+	color: #3C3E6D;
 	display: block;
-	padding: 5rem 3rem;
+	padding: 2.5rem 3rem 0;
 	text-align: center;
 }
 
@@ -280,9 +297,9 @@ a:active{
 }
 
 .contact-banner {
-	background: transparent url(../imgs/how-banner.jpg) no-repeat center center;
+	background: transparent url(../imgs/home-banner.jpg) no-repeat center center;
 	background-size: cover;
-	padding: 4rem 0 4rem;
+	padding: 3rem 0 3rem;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -322,7 +339,12 @@ a:active{
 .social-media  li:focus,
 .social-media  li:active{
 	background-color: rgba(255,255,255,0.5);
+}
 
+.contact-banner .copyright p{
+	color: #fff;
+	margin: 1 auto 0;
+	text-align: center;
 }
 
 

@@ -30,8 +30,8 @@
 	-o-background-size: cover;
 }
 
-.izze .banner {
-	background: transparent url(../imgs/work/izze-banner.jpg) no-repeat top;
+.msa .banner {
+	background: transparent url(../imgs/work/msa-banner.jpg) no-repeat top;
 	background-size: cover;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -107,10 +107,12 @@ footer {
 }
 
 footer p {
+	font-family: 'Open Sans', sans-serif;
 	margin: 0;
 	position: absolute;
 	left: 10px;
-	top: 15px;
+	top: 10px;
+	font-size: 12px;
 }
 
 .footer-social {
@@ -123,7 +125,7 @@ footer p {
 .footer-social li{
 	display: inline-block;
 	margin-left: 0.7rem;
-	width: 22px;
+	width: 18px;
 }
 
 .footer-social  li:hover,
