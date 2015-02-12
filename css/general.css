@@ -67,7 +67,7 @@ header {
 .logo{
 	width: 10rem;
 	display: block;
-	margin: 0.3rem auto 0.7rem;
+	margin: 0.3rem auto 0;
 }
 
 .nav {
@@ -153,11 +153,20 @@ a:active{
 	display: none;
 }
 
-.text {
-	max-width: 35rem;
-	margin: 4rem auto;
+.text { 
+	max-width: 45rem;
+	margin: 2rem auto;
 	text-align: center;
 	overflow: hidden;
+}
+
+.text hr {
+	display: block;
+	width: 2rem;
+	height: 0.5rem;
+	background-color: #E3A24A;
+	color: #E3A24A;
+	margin: 2rem auto;
 }
 
 .icons li{
@@ -174,22 +183,24 @@ a:active{
 }
 
 .work-banner {
-	background: transparent url(../imgs/work-banner.jpg) no-repeat center center;
+		background-color: #E3A24A;
+	/*background: transparent url(../imgs/work-banner.jpg) no-repeat center center;
 	background-size: cover;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
-	-o-background-size: cover;
+	-o-background-size: cover;*/
 }
 
 .work-banner h2 {
 	color: #fff;
 	display: block;
-	padding: 5rem 3rem;
+	padding: 2rem 3rem;
 	text-align: center;
+	letter-spacing: -4px;
 }
 
 .pieces {
-	margin-top: 0.3rem;
+	margin: 0 3.3rem 3.3rem;
 }
 
 .pieces li {
@@ -243,6 +254,9 @@ a:active{
 #how {
 	overflow: hidden;
 }
+
+
+
 
 .how-banner {
 	background: transparent url(../imgs/how-banner.jpg) no-repeat center center;
@@ -328,6 +342,8 @@ footer {
 
 footer p {
 	font-family: 'Josefin Slab', sans-serif;
+	margin: 0.5em auto;
+	text-align: center;
 }
 
 
@@ -381,9 +397,9 @@ strike {
 	}
 
 	.logo {
-		max-width: 15rem;
+		max-width: 20rem;
 		width: 9rem;
-		margin: 0.5rem 0 0.5rem 1rem;
+		margin: 0.2rem 0.5rem;
 	}
 
 	.nav {
@@ -443,7 +459,7 @@ strike {
 
 @media only screen and (min-width: 38em) { /*LARGE 608*/	
 	.text {
-		margin: 10rem auto 10rem;
+		margin: 5rem auto 3rem;
 	}
 
 	.anchor{
@@ -451,6 +467,10 @@ strike {
 	  height: 88px; /*same height as header*/
 	  margin-top: -88px; /*same height as header*/
 	  visibility: hidden;
+	}
+
+	.logo {
+		margin: 0.4rem 1rem;
 	}
 }
 
