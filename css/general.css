@@ -4,7 +4,7 @@
 /* 
 Orange: #E3A24A
 Coral: #D66C51
-Purple: #3C3E6D
+Dark-blue: #3C3E6D
 Tiffany: #5BB2A1
 */
 
@@ -31,6 +31,7 @@ html, body {
 }
 
 img {
+	display: block;
 	width: 100%;
 }
 
@@ -49,12 +50,19 @@ main {
 
 a:link,
 a:visited {
-	color: #E3A24A;
+	color: #D59B61;
 }
 
 a:hover,
 a:active {
-	color: #3C3E6D;
+	color: #054258;
+}
+
+::selection {
+  background: #E3A24A; /* WebKit/Blink Browsers */
+}
+::-moz-selection {
+  background: #E3A24A; /* Gecko Browsers */
 }
 
 
@@ -74,6 +82,7 @@ header {
 	display: block;
 	margin: 0.5rem auto 0.5rem;
 	text-align: center;
+	font-weight: 400;
 }
 
 
@@ -82,19 +91,18 @@ header {
 	display: inline-block;
 	padding: 0.4rem;
 	text-transform: lowercase;
-	font-weight: 400;
 	margin: 0 0.6rem 0 0.6rem;
 }
 
 .nav a {
 	text-decoration: none;
-	font-family: 'Josefin Slab';
+	font-family: 'Open Sans', sans-serif;
 	color: #e3a24a;
 }
 
 .nav a:link, 
 a:visited {
-	color: #e3a24a;
+	color: #D59B61;
 }
 
 .nav a:hover,
@@ -169,10 +177,10 @@ a:active{
 	display: block;
 	width: 3rem;
 	height: 5px;
-	background-color: #E3A24A;
-	color: #E3A24A;
+	background-color: #D59B61;
+	color: #D59B61;
 	margin: 2rem auto;
-	border: 1px solid #E3A24A;
+	border: 1px solid #D59B61;
 }
 
 .icons li{
@@ -189,7 +197,7 @@ a:active{
 }
 
 .work-banner {
-		background-color: #E3A24A;
+		background-color: #D59B61;
 	/*background: transparent url(../imgs/work-banner.jpg) no-repeat center center;
 	background-size: cover;
 	-webkit-background-size: cover;
@@ -218,12 +226,12 @@ a:active{
 
 
 .pieces-info {
-	font-family: 'Josefin Slab';	
+	font-family: 'Open Sans', sans-serif;
 }
 
 .pieces-info {
 	margin: 0;
-	font-size: 0.9rem;
+	font-size: 0.7rem;
 	position: absolute;
 	bottom: 0;
 	left: 0;
@@ -280,7 +288,7 @@ a:active{
 }
 
 .how-banner {
-	/*background-color: #3C3E6D;
+	/*background-color: #054258;
 	background: transparent url(../imgs/how-banner.jpg) no-repeat center center;
 	background-size: cover;
 	-webkit-background-size: cover;
@@ -312,7 +320,7 @@ a:active{
 }
 
 .email a:link {
-	font-family: 'Josefin Slab', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	text-decoration: none;
 	color: #fff;
 	display: block;
@@ -321,7 +329,7 @@ a:active{
 }
 
 .email a:hover {
-	color: #e3a24a;
+	color: #D59B61;
 	cursor: pointer;
 }
 
@@ -357,7 +365,7 @@ a:active{
 /*/////////////////////////////////// Footer */
 
 footer {
-	background-color: #3c3e6d;
+	background-color: #054258;
 	color: #fff;
 	text-align: center;
 }
@@ -369,11 +377,10 @@ footer {
 }
 
 footer p {
-	font-family: 'Josefin Slab', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	margin: 1em auto 1em;
 	text-align: center;
 }
-
 
 /*/////////////////////////////////////////////////// 404 */
 
@@ -396,7 +403,7 @@ strike {
 }
 
 .text-404 {
-	border-left: 3px solid #e3a24a;
+	border-left: 3px solid #D59B61;
 	margin-left: 2rem;
 }
 
@@ -506,6 +513,10 @@ strike {
 	.slogan img {
 		width: 50%;
 		padding: 10rem 0;
+	}
+	
+	.pieces-info {
+		font-size: 1rem;
 	}
 }
 
