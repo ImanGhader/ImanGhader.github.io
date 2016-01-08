@@ -1,0 +1,81 @@
+
+
+.logo {
+	max-width: 200px;
+	margin: 0 auto;
+
+}
+
+.nav {
+	display: block;
+	margin: 20px auto 30px;
+	text-align: center;
+	font-weight: 300;
+}
+
+
+.nav li {
+	list-style-type: none;
+	display: inline-block;
+	text-transform: lowercase;
+	font-size: 17px;
+}
+
+.nav a {
+	text-decoration: none;
+	font-family: 'Roboto', sans-serif;
+	color: $grey;
+	margin: 0 5px;
+	padding: 10px 6px;
+}
+
+.nav a:visited {
+	color: $grey;
+}
+
+.nav a:hover,
+a:active{
+	color: $navy;
+	background-color: rgba(0, 0, 0, 0.05);
+
+}
+
+.lines {
+	height: 2px;
+    border: 2px;
+    width: 100%;
+    margin: 0 auto 0;
+    color: $lightgrey;
+    background-color: $lightgrey;
+}
+
+header .lines{
+	margin-top: 10px;
+
+}
+
+@media only screen and(min-width: 33.125em) {
+	.logo {
+		max-width: 150px;
+		margin: 0;
+	}
+
+	.nav {
+		text-align: right;
+	}
+
+	.nav li {
+		font-size: 15px;
+	}
+}
+
+
+
+
+
+
+
+
+
+
+

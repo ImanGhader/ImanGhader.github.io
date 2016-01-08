@@ -1,0 +1,81 @@
+footer {
+	display: block;
+	margin: 20px 0 10px 0;
+	font-size: 15px;
+
+	ul {
+		width: 99%;
+		margin: 0 auto;
+		display: inline-block;
+		text-align: center;
+
+		li:first-child img{ 
+    		width: 23px;
+		}
+	}
+
+	p {
+		font-family: 'Roboto', sans-serif;
+		font-weight: $light;
+		color: $grey;
+		text-align: center;
+	}
+
+}
+
+.quote p {
+	margin-top: 30px;
+}
+
+.social-media {
+	margin: 10px auto 10px;
+	display: block;
+}
+
+.social-media li{
+	display: inline-block;
+	padding: 5px;
+	margin: 0 5px 0 0;
+}
+
+.social-media li{
+	color: $lightgrey;
+}
+
+.social-media img {
+	width: 18px;
+}
+
+@media only screen and(min-width: 33.125em){
+
+	.footer {
+		font-size: 14px;
+
+		ul {
+			text-align: left;
+		}
+		
+		.quote p{
+			text-align: left;
+		}
+
+		.copyright {
+			float: right;
+
+			p {
+			margin-top: 30px;
+			text-align: right;
+			}
+		}
+	}
+
+}
+
+
+
+
+
+
+
+
+

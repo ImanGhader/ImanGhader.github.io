@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 360 360" enable-background="new 0 0 360 360" xml:space="preserve">
+<g id="bg">
+	<rect fill="#FF6300" width="360" height="360"/>
+	<radialGradient id="SVGID_1_" cx="180.8971" cy="309.383" r="99.4506" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#603813"/>
+		<stop  offset="1" style="stop-color:#FFFFFF"/>
+	</radialGradient>
+	<ellipse opacity="0.1" fill="url(#SVGID_1_)" cx="180.9" cy="309.4" rx="93.3" ry="4.4"/>
+	<radialGradient id="SVGID_2_" cx="180.8971" cy="309.383" r="99.4506" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#603813"/>
+		<stop  offset="1" style="stop-color:#FFFFFF"/>
+	</radialGradient>
+	<ellipse opacity="0.1" fill="url(#SVGID_2_)" cx="180.9" cy="309.4" rx="93.3" ry="4.4"/>
+</g>
+<g id="Layer_2">
+</g>
+<g id="Layer_3">
+</g>
+<g id="Layer_10">
+</g>
+<g id="Layer_4">
+</g>
+<g id="Layer_5">
+</g>
+<g id="Layer_6">
+	<rect x="174.9" y="235" fill="#F9E531" width="2.8" height="72.9"/>
+	<rect x="182.6" y="235" fill="#F9E531" width="2.8" height="72.9"/>
+	<path fill="#F9E531" d="M220.6,162.6c0,57.3-17.3,75.8-39.7,75.8s-41.4-18.5-41.4-75.8s17.7-78.3,40.1-78.3
+		S220.6,105.3,220.6,162.6z"/>
+	<g>
+		<ellipse fill="#5E5E5E" cx="175.8" cy="128.9" rx="2.5" ry="4"/>
+		<ellipse fill="#5E5E5E" cx="184.2" cy="128.9" rx="2.5" ry="4"/>
+	</g>
+	<g>
+		<rect x="209.3" y="213.2" fill="#F9E531" width="3.6" height="40.9"/>
+		<ellipse fill="#F9E531" cx="211.1" cy="252.9" rx="4" ry="3.8"/>
+	</g>
+	<g>
+		<rect x="147.6" y="213.2" fill="#F9E531" width="3.6" height="40.9"/>
+		<ellipse fill="#F9E531" cx="149.4" cy="252.9" rx="4" ry="3.8"/>
+	</g>
+	<g>
+		<rect x="175.3" y="159.9" fill="#F1F1F2" width="4" height="6.2"/>
+		<rect x="180.7" y="159.9" fill="#F1F1F2" width="4" height="6.2"/>
+	</g>
+	<g>
+		<path fill="#005CFF" d="M174.9,308.5h-6.1v-0.6c0-1.1,0.9-2,2-2h4.1V308.5z"/>
+		<path fill="#005CFF" d="M185.4,308.5h6.1v-0.6c0-1.1-0.9-2-2-2h-4.1V308.5z"/>
+		<rect x="174.9" y="305.5" fill="#005CFF" width="2.8" height="3.3"/>
+		<rect x="182.6" y="305.5" fill="#005CFF" width="2.8" height="3.3"/>
+	</g>
+	<g>
+		<rect x="182.6" y="276.4" fill="#FFC2DE" width="2.8" height="29.2"/>
+		<rect x="174.9" y="276.4" fill="#FFC2DE" width="2.8" height="29.2"/>
+	</g>
+</g>
+<g id="Layer_7">
+</g>
+<g id="Layer_8">
+</g>
+<g id="Layer_11">
+</g>
+<g id="Layer_9">
+</g>
+</svg>

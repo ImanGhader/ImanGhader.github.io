@@ -1,0 +1,11 @@
+.footer img {
+  width: 1rem;
+  margin-bottom: 1rem;
+  margin-right: 1rem;
+}
+
+footer p {
+  font-family: 'Roboto', sans-serif;
+  margin: 1em auto 1em;
+  text-align: center;
+}
