@@ -1,5 +1,4 @@
 
-
 .logo {
 	max-width: 200px;
 	margin: 0 auto;
@@ -10,7 +9,7 @@
 	display: block;
 	margin: 20px auto 30px;
 	text-align: center;
-	font-weight: 300;
+	font-weight: 400;
 }
 
 
@@ -25,8 +24,9 @@
 	text-decoration: none;
 	font-family: 'Roboto', sans-serif;
 	color: $grey;
-	margin: 0 5px;
-	padding: 10px 6px;
+	margin: 7px 2px;
+	padding: 5px 7px;
+	border: 2px solid #fff;
 }
 
 .nav a:visited {
@@ -34,9 +34,10 @@
 }
 
 .nav a:hover,
-a:active{
+.nav a:active{
 	color: $navy;
-	background-color: rgba(0, 0, 0, 0.05);
+	background-color: rgb(255, 255, 255);
+	border: 2px solid $lightgrey;
 
 }
 
@@ -47,6 +48,10 @@ a:active{
     margin: 0 auto 0;
     color: $lightgrey;
     background-color: $lightgrey;
+}
+
+.nav img {
+	width: 50px;
 }
 
 header .lines{

@@ -358,7 +358,7 @@ img {
   display: block;
   margin: 20px auto 30px;
   text-align: center;
-  font-weight: 300;
+  font-weight: 400;
 }
 
 .nav li {
@@ -372,8 +372,9 @@ img {
   text-decoration: none;
   font-family: 'Roboto', sans-serif;
   color: #898989;
-  margin: 0 5px;
-  padding: 10px 6px;
+  margin: 7px 2px;
+  padding: 5px 7px;
+  border: 2px solid #fff;
 }
 
 .nav a:visited {
@@ -381,9 +382,10 @@ img {
 }
 
 .nav a:hover,
-a:active {
+.nav a:active {
   color: #06394e;
-  background-color: rgba(0, 0, 0, 0.05);
+  background-color: white;
+  border: 2px solid #c2c2c2;
 }
 
 .lines {
@@ -393,6 +395,10 @@ a:active {
   margin: 0 auto 0;
   color: #c2c2c2;
   background-color: #c2c2c2;
+}
+
+.nav img {
+  width: 50px;
 }
 
 header .lines {
@@ -434,6 +440,7 @@ footer p {
   font-weight: 300;
   color: #898989;
   text-align: center;
+  line-height: 15px;
 }
 
 footer .lines {
@@ -466,6 +473,9 @@ footer .lines {
 @media only screen and (min-width: 33.125em) {
   .footer {
     font-size: 14px;
+  }
+  .footer p {
+    line-height: 20px;
   }
   .footer ul {
     text-align: left;
@@ -582,6 +592,7 @@ wrapper {
 
 .work-text {
   margin: 40px 0 10px 0;
+  padding: 0 30px;
 }
 
 .caption {
@@ -590,6 +601,8 @@ wrapper {
   color: #898989;
   font-weight: 400;
   text-align: center;
+  border-left: 2px solid #c2c2c2;
+  border-right: 2px solid #c2c2c2;
 }
 
 .caption a {
@@ -629,6 +642,10 @@ wrapper {
 .video {
   width: 100%;
   margin: 0 auto;
+}
+
+.bordered {
+  border: 1px solid #e6e7e8;
 }
 
 .footer-pag {

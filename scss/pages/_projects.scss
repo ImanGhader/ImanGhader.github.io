@@ -1,5 +1,6 @@
 .work-text {
 	margin: 40px 0 10px 0;
+	padding: 0 30px;
 }
 
 .caption {
@@ -8,6 +9,8 @@
 	color: $grey;
 	font-weight: $normal;
 	text-align: center;
+	border-left: 2px solid $lightgrey;
+	border-right: 2px solid $lightgrey;
 
 	a {
 		color: $navy;
@@ -15,6 +18,8 @@
 		font-size: 18px;
 	}
 }
+
+
 
 .work-text h2{
 	font-size: 20px;
@@ -49,6 +54,10 @@
 .video {
 	width: 100%;
 	margin: 0 auto;
+}
+
+.bordered {
+	border: 1px solid $lightestgrey;
 }
 
 
