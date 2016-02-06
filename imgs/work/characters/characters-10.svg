@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 360 360" enable-background="new 0 0 360 360" xml:space="preserve">
+<g id="bg">
+	<rect x="0" fill="#005CFF" width="360" height="360"/>
+	<radialGradient id="SVGID_1_" cx="182.8635" cy="307.6555" r="99.4506" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#603813"/>
+		<stop  offset="1" style="stop-color:#FFFFFF"/>
+	</radialGradient>
+	<ellipse opacity="0.1" fill="url(#SVGID_1_)" cx="182.9" cy="307.7" rx="93.3" ry="4.4"/>
+	<radialGradient id="SVGID_2_" cx="180.8971" cy="309.383" r="99.4506" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#603813"/>
+		<stop  offset="1" style="stop-color:#FFFFFF"/>
+	</radialGradient>
+	<ellipse opacity="0.1" fill="url(#SVGID_2_)" cx="180.9" cy="309.4" rx="93.3" ry="4.4"/>
+</g>
+<g id="Layer_2">
+</g>
+<g id="Layer_3">
+	<rect x="212.1" y="207.9" fill="#FFC2DE" width="3.6" height="40.9"/>
+	<rect x="150.5" y="207.9" fill="#FFC2DE" width="3.6" height="40.9"/>
+	<g>
+		<rect x="176.5" y="233.8" fill="#FF6300" width="3.6" height="72.9"/>
+		<rect x="186.5" y="233.8" fill="#FF6300" width="3.6" height="72.9"/>
+	</g>
+	<circle fill="#5E5E5E" cx="184.1" cy="114.2" r="50.9"/>
+	<path fill="#FFFEE6" d="M183,241.2L183,241.2c-17.9,0-32.6-14.7-32.6-32.6v-83.7c0-17.9,14.7-32.6,32.6-32.6h0
+		c17.9,0,32.6,14.7,32.6,32.6v83.7C215.6,226.5,200.9,241.2,183,241.2z"/>
+	<ellipse fill="#FFFEE6" cx="213.9" cy="247.6" rx="4" ry="3.8"/>
+	<ellipse fill="#FFFEE6" cx="152.3" cy="247.6" rx="4" ry="3.8"/>
+	<g>
+		<path fill="#F9E531" d="M155.9,226.6c-0.2-0.3-0.8-1.1-1.2-1.8h56.6c-0.2,0.4-0.9,1.5-1.2,1.8H155.9z"/>
+	</g>
+	<path fill="none" d="M152.8,220.8c0,0-0.3,3.4,2.3,3.9h56.2c0,0,1.5-0.8,1.9-3.9H152.8z"/>
+	<g>
+		<path fill="#FF6300" d="M155.9,226.6c5.9,8.8,15.8,14.6,27.1,14.6h0c11.3,0,21.3-5.8,27.1-14.6H155.9z"/>
+	</g>
+	<path fill="#FFC2DE" d="M215.6,219.1h-65.2l-0.1-19.8c0,0-1.2-1.4-1.2-2.8c0-1.4,0.4-2.8,0.4-2.8l0.8,0.8c0,0,1.4,2.1,11.6,3.2
+		c5.8,0.6,20.9,7.5,20.9,7.5s14.4-6.9,19.5-6.8c11.6,0.1,13.3-3.1,13.3-3.1l0.6-1.3c0,0,0.1,1.3,0,2.2c-0.1,0.9-0.7,1.7-0.7,1.7
+		V219.1z"/>
+	<path fill="#FFC2DE" d="M169.6,205.1c0,0-2.6-1.2-11.4-2.6c-13.7-2.2-7.8-10.9-7.8-10.9s-0.6,4.7,7.8,5.3
+		c9.8,0.7,24.8,8.2,24.8,8.2s14.5-6.6,21.8-7c4.3-0.2,10.9-1.6,10.8-6.5c0,0,5.4,9.3-10.7,11.3c-9.4,1.2-10.2,3.1-10.2,3.1"/>
+	<g>
+		<path fill="#5E5E5E" d="M191,212v-4.4c0-0.4-0.2-0.6-0.5-0.6s-0.5,0.3-0.5,0.6v4.4c-0.3,0.2-0.5,0.6-0.5,1c0,0.7,0.5,1.2,1,1.2
+			c0.6,0,1-0.5,1-1.2C191.5,212.6,191.3,212.2,191,212z"/>
+		<path fill="#5E5E5E" d="M176.2,212v-4.4c0-0.4-0.2-0.6-0.5-0.6s-0.5,0.3-0.5,0.6v4.4c-0.3,0.2-0.5,0.6-0.5,1c0,0.7,0.5,1.2,1,1.2
+			s1-0.5,1-1.2C176.7,212.6,176.5,212.2,176.2,212z"/>
+	</g>
+	<path fill="none" d="M215.6,208.6c0,17.9-14.7,32.6-32.6,32.6h0c-17.9,0-32.5-14-32.6-32.6l-5-18.9h73.4L215.6,208.6z"/>
+	<g>
+		<path fill="#FF6300" d="M180.1,308.6h-9.3v-1.9c0-1.1,0.9-2,2-2h7.3V308.6z"/>
+		<path fill="#FF6300" d="M186.5,308.6h9.3v-1.9c0-1.1-0.9-2-2-2h-7.3V308.6z"/>
+	</g>
+	<circle fill="#5E5E5E" cx="167.6" cy="96.1" r="40.7"/>
+	<g>
+		<ellipse fill="#5E5E5E" cx="176.6" cy="146" rx="2.4" ry="3.8"/>
+		<ellipse fill="#5E5E5E" cx="187.6" cy="146" rx="2.4" ry="3.8"/>
+	</g>
+	<g>
+		<defs>
+			<path id="XMLID_1_" d="M152.8,220.8c0,0,0.4,3.3,1.9,3.9h56.6c0,0,1.9-1.5,1.9-3.9H152.8z"/>
+		</defs>
+		<use xlink:href="#XMLID_1_"  overflow="visible" fill="#FFFEE6"/>
+		<clipPath id="XMLID_4_">
+			<use xlink:href="#XMLID_1_"  overflow="visible"/>
+		</clipPath>
+		<g clip-path="url(#XMLID_4_)">
+			<defs>
+				<path id="SVGID_17_" d="M152.9,220.9c0,0,0.4,3.3,1.9,3.9h56.6c0,0,1.9-1.5,1.9-3.9H152.9z"/>
+			</defs>
+			<clipPath id="SVGID_3_">
+				<use xlink:href="#SVGID_17_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_3_)">
+				<rect x="154.9" y="220.9" fill="#F9E531" width="1.3" height="4.2"/>
+				<rect x="161.1" y="220.9" fill="#F9E531" width="1.3" height="4.2"/>
+				<rect x="167.3" y="220.9" fill="#F9E531" width="1.3" height="4.2"/>
+				<rect x="173.5" y="220.9" fill="#F9E531" width="1.3" height="4.2"/>
+				<rect x="179.7" y="220.9" fill="#F9E531" width="1.3" height="4.2"/>
+				<rect x="185.9" y="220.9" fill="#F9E531" width="1.3" height="4.2"/>
+				<rect x="192" y="220.9" fill="#F9E531" width="1.3" height="4.2"/>
+				<rect x="198.2" y="220.9" fill="#F9E531" width="1.3" height="4.2"/>
+				<rect x="204.7" y="220.9" fill="#F9E531" width="1.2" height="4.2"/>
+				<rect x="210.3" y="220.9" fill="#F9E531" width="1.2" height="4.2"/>
+			</g>
+		</g>
+	</g>
+	<path fill="#FFFEE6" d="M214.1,220.8h-61.5c-0.5,0-0.9-0.4-0.9-0.9l0,0c0-0.5,0.4-0.9,0.9-0.9h61.5c0.5,0,0.9,0.4,0.9,0.9l0,0
+		C215,220.4,214.6,220.8,214.1,220.8z"/>
+</g>
+<g id="Layer_10">
+</g>
+<g id="Layer_4">
+</g>
+<g id="Layer_5">
+</g>
+<g id="Layer_6">
+</g>
+<g id="Layer_7">
+</g>
+<g id="Layer_8">
+</g>
+<g id="Layer_11">
+</g>
+<g id="Layer_9">
+	<text transform="matrix(1 0 0 1 50.3471 37.0415)"><tspan x="0" y="0" fill="#FFFEE6" font-family="'AmaticSC-Bold'" font-size="20px">“ How</tspan><tspan x="30" y="0" fill="#FFFEE6" font-family="'AmaticSC-Bold'" font-size="20px" letter-spacing="1"> </tspan><tspan x="34.4" y="0" fill="#FFFEE6" font-family="'AmaticSC-Bold'" font-size="20px">often</tspan><tspan x="64.2" y="0" fill="#FFFEE6" font-family="'AmaticSC-Bold'" font-size="20px" letter-spacing="1"> </tspan><tspan x="68.2" y="0" fill="#FFFEE6" font-family="'AmaticSC-Bold'" font-size="20px">d</tspan><tspan x="74.5" y="0" fill="#FFFEE6" font-family="'AmaticSC-Bold'" font-size="20px" letter-spacing="1">o</tspan><tspan x="82.2" y="0" fill="#FFFEE6" font-family="'AmaticSC-Bold'" font-size="20px"> yo</tspan><tspan x="97.3" y="0" fill="#FFFEE6" font-family="'AmaticSC-Bold'" font-size="20px" letter-spacing="1">u</tspan><tspan x="105.7" y="0" fill="#FFFEE6" font-family="'AmaticSC-Bold'" font-size="20px"> peopl</tspan><tspan x="135.7" y="0" fill="#FFFEE6" font-family="'AmaticSC-Bold'" font-size="20px" letter-spacing="1">e</tspan><tspan x="142.4" y="0" fill="#FFFEE6" font-family="'AmaticSC-Bold'" font-size="20px"> </tspan><tspan x="145.6" y="0" fill="#FFFEE6" font-family="'AmaticSC-Bold'" font-size="20px">party A</tspan><tspan x="183.7" y="0" fill="#FFFEE6" font-family="'AmaticSC-Bold'" font-size="20px" letter-spacing="1"> </tspan><tspan x="187.8" y="0" fill="#FFFEE6" font-family="'AmaticSC-Bold'" font-size="20px">round</tspan><tspan x="220.4" y="0" fill="#FFFEE6" font-family="'AmaticSC-Bold'" font-size="20px"> </tspan><tspan x="223.6" y="0" fill="#FFFEE6" font-family="'AmaticSC-Bold'" font-size="20px">here? ”</tspan></text>
+</g>
+</svg>
