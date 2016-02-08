@@ -655,6 +655,10 @@ wrapper {
   background-repeat: no-repeat;
 }
 
+.white-text p {
+  color: #fff;
+}
+
 .footer-pag {
   background-color: #e6e7e8;
   margin: 15px 0 10px 0;
