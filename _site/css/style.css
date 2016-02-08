@@ -204,18 +204,6 @@ img {
   visibility: visible;
 }
 
-.invision {
-  background-color: #DE8D4B;
-  width: 100%;
-  display: block;
-}
-
-iframe {
-  transform: scale(1);
-  display: block;
-  margin: 0 auto;
-}
-
 @media only screen and (min-width: 25em) {
   .unit-s-hidden {
     display: none;
@@ -765,12 +753,12 @@ wrapper {
 .invision {
   background-color: #DE8D4B;
   width: 100%;
-  display: block;
+  display: none;
 }
 
 iframe {
   transform: scale(1);
-  display: block;
+  display: none;
   margin: 0 auto;
 }
 
@@ -833,5 +821,22 @@ iframe {
   }
   .next-button:hover {
     transform: translate(0, 0);
+  }
+}
+
+@media only screen and (min-width: 64em) {
+  /*1024*/
+  .proto-text {
+    display: none;
+  }
+  .invision {
+    background-color: #DE8D4B;
+    width: 100%;
+    display: block;
+  }
+  iframe {
+    transform: scale(1);
+    display: block;
+    margin: 0 auto;
   }
 }
