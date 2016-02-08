@@ -757,7 +757,7 @@ wrapper {
 }
 
 .invision iframe {
-  transform: scale(0.7);
+  transform: scale(1);
   display: block;
   margin: 0 auto;
 }
@@ -767,20 +767,6 @@ wrapper {
   .footer-pag p {
     font-size: 14px;
     float: left;
-  }
-}
-
-@media only screen and (min-width: 25em) {
-  /*400*/
-  .invision {
-    background-color: #DE8D4B;
-    width: 100%;
-    display: block;
-  }
-  .invision iframe {
-    transform: scale(0.8);
-    display: block;
-    margin: 0 auto;
   }
 }
 
@@ -835,15 +821,5 @@ wrapper {
   }
   .next-button:hover {
     transform: translate(0, 0);
-  }
-  .invision {
-    background-color: #DE8D4B;
-    width: 100%;
-    display: block;
-  }
-  .invision iframe {
-    transform: scale(1);
-    display: block;
-    margin: 0 auto;
   }
 }
