@@ -757,7 +757,7 @@ wrapper {
 }
 
 .invision iframe {
-  transform: scale(0.8);
+  transform: scale(0.7);
   display: block;
   margin: 0 auto;
 }
@@ -772,6 +772,11 @@ wrapper {
 
 @media only screen and (min-width: 25em) {
   /*400*/
+  .invision {
+    background-color: #DE8D4B;
+    width: 100%;
+    display: block;
+  }
   .invision iframe {
     transform: scale(0.8);
     display: block;
@@ -831,7 +836,14 @@ wrapper {
   .next-button:hover {
     transform: translate(0, 0);
   }
-  iframe {
+  .invision {
+    background-color: #DE8D4B;
+    width: 100%;
+    display: block;
+  }
+  .invision iframe {
     transform: scale(1);
+    display: block;
+    margin: 0 auto;
   }
 }
