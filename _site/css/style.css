@@ -649,12 +649,6 @@ wrapper {
   border: 1px solid #e6e7e8;
 }
 
-.invision {
-  background-image: url(/imgs/work/icebrg/icebrg-orange-bg.jpg);
-  background-position: center center;
-  background-repeat: no-repeat;
-}
-
 .footer-pag {
   background-color: #e6e7e8;
   margin: 15px 0 10px 0;
@@ -756,11 +750,37 @@ wrapper {
   right: 100%;
 }
 
+.invision {
+  background-color: #DE8D4B;
+  width: 100%;
+  display: block;
+}
+
+.invision iframe {
+  transform: scale(0.7);
+  display: block;
+  margin: 0 auto;
+}
+
 @media only screen and (min-width: 17.8125em) {
   /*285*/
   .footer-pag p {
     font-size: 14px;
     float: left;
+  }
+}
+
+@media only screen and (min-width: 25em) {
+  /*400*/
+  .invision {
+    background-color: #DE8D4B;
+    width: 100%;
+    display: block;
+  }
+  .invision iframe {
+    transform: scale(0.8);
+    display: block;
+    margin: 0 auto;
   }
 }
 
@@ -815,5 +835,15 @@ wrapper {
   }
   .next-button:hover {
     transform: translate(0, 0);
+  }
+  .invision {
+    background-color: #DE8D4B;
+    width: 100%;
+    display: block;
+  }
+  .invision iframe {
+    transform: scale(1);
+    display: block;
+    margin: 0 auto;
   }
 }
