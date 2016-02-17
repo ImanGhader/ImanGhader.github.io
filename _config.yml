@@ -1,3 +1,4 @@
 markdown: redcarpet 
 baseurl: /home
 exclude: [README.md]
+exclude: [_site]
