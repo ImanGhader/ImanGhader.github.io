@@ -4,6 +4,7 @@
 	License: none (public domain) */
 /*	Paul Irish's Padding Fix
 	http://paulirish.com/2012/box-sizing-border-box-ftw */
+
 * {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -274,10 +275,7 @@ img {
     visibility: visible;
   }
 
-  .logo {
-    margin:
 
-  }
   .nav {
     text-align: right;
   }
@@ -440,7 +438,7 @@ a {
 .nav a {
   text-decoration: none;
   font-family: 'Roboto mono', sans-serif;
-  color: #ffff;
+  color: #fff;
   font-weight: 400;
   margin: 7px 2px;
   padding: 5px 7px;
